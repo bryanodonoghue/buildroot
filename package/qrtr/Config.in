@@ -1,0 +1,5 @@
+config BR2_PACKAGE_QRTR
+	bool "qrtr"
+	help
+	  qrtr qualcomm untility for SNOC enablement 
+          https://github.com/andersson/qrtr
